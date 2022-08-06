@@ -38,13 +38,24 @@ function creteSelectForms() {
   const dayCnt = table.length;
   for (var i = 0; i < dayCnt; i++) {
     var day = i + 1;
+
+    var dayBox = document.createElement("div");
+    dayBox.id = `dayBox_${day}`;
+    dayBox.className = "dayBox";
+    selectBox.appendChild(dayBox);
+
     // select要素作成
     const selectDay = document.createElement("select");
     selectDay.id = "select-day" + day;
     selectDay.name = "select-day" + day;
 
+    var dayLabel = document.createElement("p");
+    dayLabel.textContent = `${day}日目`;
+
     // select-box要素にselectを追加
-    selectBox.appendChild(selectDay);
+    dayBox.appendChild(dayLabel);
+    dayBox.appendChild(selectDay);
+    // selectBox.appendChild(document.createElement("br"));
 
     const optionList = table[i];
     const optionListLen = optionList.length;
