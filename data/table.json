@@ -1,0 +1,310 @@
+{
+  "table": [
+    [
+      {
+        "id": "Metal3000", 
+        "amount": 1
+      },
+      {
+        "id": "Nutrient3000", 
+        "amount": 1
+      },
+      {
+        "id": "Power3000", 
+        "amount": 1
+      },
+      {
+        "id": "ResourcePack4000", 
+        "amount": 1
+      },
+      {
+        "id": "TacticRecordT2", 
+        "amount": 5
+      },
+      {
+        "id": "TrainingManualT2", 
+        "amount": 5
+      },
+      {
+        "id": "FastMaking", 
+        "amount": 10
+      },
+      {
+        "id": "GeneSeed", 
+        "amount": 10
+      },
+      {
+        "id": "AdvancedModule", 
+        "amount": 100
+      },
+      {
+        "id": "OriginDust", 
+        "amount": 100
+      },
+      {
+        "id": "CoreNormal", 
+        "amount": 1
+      }
+    ],
+    [
+      {
+        "id": "Metal3000", 
+        "amount": 2
+      },
+      {
+        "id": "Nutrient3000", 
+        "amount": 2
+      },
+      {
+        "id": "Power3000", 
+        "amount": 2
+      },
+      {
+        "id": "ResourcePack4000", 
+        "amount": 1
+      },
+      {
+        "id": "TacticRecordT2", 
+        "amount": 5
+      },
+      {
+        "id": "TrainingManualT2", 
+        "amount": 5
+      },
+      {
+        "id": "FastMaking", 
+        "amount": 10
+      },
+      {
+        "id": "GeneSeed", 
+        "amount": 10
+      },
+      {
+        "id": "AdvancedModule", 
+        "amount": 100
+      },
+      {
+        "id": "OriginDust", 
+        "amount": 100
+      },
+      {
+        "id": "CoreNormal", 
+        "amount": 1
+      }
+    ],
+    [
+      {
+        "id": "Metal3000", 
+        "amount": 2
+      },
+      {
+        "id": "Nutrient3000", 
+        "amount": 2
+      },
+      {
+        "id": "Power3000", 
+        "amount": 2
+      },
+      {
+        "id": "ResourcePack4000", 
+        "amount": 1
+      },
+      {
+        "id": "TacticRecordT2", 
+        "amount": 5
+      },
+      {
+        "id": "TrainingManualT2", 
+        "amount": 5
+      },
+      {
+        "id": "FastMaking", 
+        "amount": 10
+      },
+      {
+        "id": "GeneSeed", 
+        "amount": 10
+      },
+      {
+        "id": "AdvancedModule", 
+        "amount": 100
+      },
+      {
+        "id": "OriginDust", 
+        "amount": 100
+      },
+      {
+        "id": "CoreNormal", 
+        "amount": 1
+      }
+    ],
+    [
+      {
+        "id": "ResourcePack4000", 
+        "amount": 1
+      },
+      {
+        "id": "ResourcePack4000", 
+        "amount": 2
+      },
+      {
+        "id": "TacticRecordT3", 
+        "amount": 1
+      },
+      {
+        "id": "TrainingManualT3", 
+        "amount": 1
+      },
+      {
+        "id": "FastMaking", 
+        "amount": 10
+      },
+      {
+        "id": "GeneSeed", 
+        "amount": 10
+      },
+      {
+        "id": "AdvancedModule", 
+        "amount": 100
+      },
+      {
+        "id": "OriginDustAdv", 
+        "amount": 100
+      },
+      {
+        "id": "CoreNormal", 
+        "amount": 1
+      }
+    ],
+    [
+      {
+        "id": "ResourcePack4000", 
+        "amount": 1
+      },
+      {
+        "id": "ResourcePack4000", 
+        "amount": 2
+      },
+      {
+        "id": "TacticRecordT3", 
+        "amount": 1
+      },
+      {
+        "id": "TrainingManualT3", 
+        "amount": 1
+      },
+      {
+        "id": "FastMaking", 
+        "amount": 15
+      },
+      {
+        "id": "GeneSeed", 
+        "amount": 15
+      },
+      {
+        "id": "AdvancedModule", 
+        "amount": 100
+      },
+      {
+        "id": "OriginDustAdv", 
+        "amount": 100
+      },
+      {
+        "id": "CoreNormal", 
+        "amount": 1
+      }
+    ],
+    [
+      {
+        "id": "ResourcePack4000", 
+        "amount": 2
+      },
+      {
+        "id": "ResourcePack4000", 
+        "amount": 3
+      },
+      {
+        "id": "TacticRecordT3", 
+        "amount": 1
+      },
+      {
+        "id": "TrainingManualT3", 
+        "amount": 1
+      },
+      {
+        "id": "FastMaking", 
+        "amount": 15
+      },
+      {
+        "id": "GeneSeed", 
+        "amount": 15
+      },
+      {
+        "id": "AdvancedModule", 
+        "amount": 150
+      },
+      {
+        "id": "OriginDust", 
+        "amount": 500
+      },
+      {
+        "id": "OriginDustAdv", 
+        "amount": 100
+      },
+      {
+        "id": "OriginDustSp", 
+        "amount": 50
+      },
+      {
+        "id": "CoreSpecial", 
+        "amount": 1
+      },
+      {
+        "id": "MarriageRing", 
+        "amount": 1
+      }
+    ],
+    [
+      {
+        "id": "ResourcePack20000", 
+        "amount": 1
+      },
+      {
+        "id": "TacticRecordT3", 
+        "amount": 1
+      },
+      {
+        "id": "TrainingManualT3", 
+        "amount": 1
+      },
+      {
+        "id": "FastMaking", 
+        "amount": 20
+      },
+      {
+        "id": "GeneSeed", 
+        "amount": 20
+      },
+      {
+        "id": "AdvancedModule", 
+        "amount": 200
+      },
+      {
+        "id": "OriginDustSp", 
+        "amount": 50
+      },
+      {
+        "id": "CoreSpecial", 
+        "amount": 1
+      },
+      {
+        "id": "CommanderDiary", 
+        "amount": 1
+      },
+      {
+        "id": "MarriageRing", 
+        "amount": 1
+      }
+    ]
+  ]
+}

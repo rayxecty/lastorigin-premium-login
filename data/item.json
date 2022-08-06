@@ -1,0 +1,97 @@
+{
+  "Metal3000": {
+    "name": "部品3000",
+    "price_tunacan": 7.69,
+    "price_yen": 70.76
+  },
+  "Nutrient3000": {
+    "name": "栄養3000",
+    "price_tunacan": 7.69,
+    "price_yen": 70.76
+  },
+  "Power3000": {
+    "name": "電力3000",
+    "price_tunacan": 7.69,
+    "price_yen": 70.76
+  },
+  "ResourcePack4000": {
+    "name": "全資源4000",
+    "price_tunacan": 30.79,
+    "price_yen": 283.32
+  },
+  "ResourcePack20000": {
+    "name": "全資源20000",
+    "price_tunacan": 153.95,
+    "price_yen": 1416.34
+  },
+  "TacticRecordT2": {
+    "name": "戦闘記録",
+    "price_tunacan": 0.6,
+    "price_yen": 5.52
+  },
+  "TacticRecordT3": {
+    "name": "滅亡前の戦争記録",
+    "price_tunacan": 6,
+    "price_yen": 55.2
+  },
+  "TrainingManualT2": {
+    "name": "実戦教本",
+    "price_tunacan": 0.6,
+    "price_yen": 5.52
+  },
+  "TrainingManualT3": {
+    "name": "滅亡前の戦争教本",
+    "price_tunacan": 6,
+    "price_yen": 55.2
+  },
+  "FastMaking": {
+    "name": "急速完成回路",
+    "price_tunacan": 1.04,
+    "price_yen": 9.56
+  },
+  "GeneSeed": {
+    "name": "遺伝子の種",
+    "price_tunacan": 2.2,
+    "price_yen": 20.24
+  },
+  "AdvancedModule": {
+    "name": "高級モジュール",
+    "price_tunacan": 0.33,
+    "price_yen": 3.03
+  },
+  "OriginDust": {
+    "name": "オリジンダスト",
+    "price_tunacan": 0.1,
+    "price_yen": 0.92
+  },
+  "OriginDustAdv": {
+    "name": "高級オリジンダスト",
+    "price_tunacan": 0.24,
+    "price_yen": 2.2
+  },
+  "OriginDustSp": {
+    "name": "特殊オリジンダスト",
+    "price_tunacan": 1.1,
+    "price_yen": 10.12
+  },
+  "CoreNormal": {
+    "name": "代用コア",
+    "price_tunacan": 25,
+    "price_yen": 230
+  },
+  "CoreSpecial": {
+    "name": "特殊代用コア",
+    "price_tunacan": 125,
+    "price_yen": 1150
+  },
+  "CommanderDiary": {
+    "name": "司令官の日誌",
+    "price_tunacan": 60,
+    "price_yen": 552
+  },
+  "MarriageRing": {
+    "name": "誓約の指輪",
+    "price_tunacan": 60,
+    "price_yen": 552
+  }
+}
